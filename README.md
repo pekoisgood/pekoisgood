@@ -2,11 +2,10 @@
 A passionate Front-End Developer from Taiwan.
 * 🌍  I'm based in Taipei, Taiwan
 * ✉️  You can contact me at [peko.claire@gmail.com](mailto:peko.claire@gmail.com)
-* 🚀  I'm currently working on [Perky](http://https://github.com/pekoisgood/Perky)
 
 ## My Tool Box
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pekoisgood&show_icons=true&locale=en&layout=compact" alt="pekoisgood" /></p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pekoisgood&show_icons=true&locale=en&layout=donut&bg_color=fafae8" alt="pekoisgood" /></p>
 
 <p>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -26,7 +25,12 @@ A passionate Front-End Developer from Taiwan.
   
    </p>
 <br />
+<br />
+<br />
+<br />
 
+## Currently working on
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pekoisgood&repo=Perky&bg_color=fafae8)](http://https://github.com/pekoisgood/Perky)
 
 
 
