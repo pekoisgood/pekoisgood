@@ -30,7 +30,7 @@ A passionate Front-End Developer from Taiwan.
 <br />
 
 ## Currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pekoisgood&repo=Perky&bg_color=fafae8)](http://https://github.com/pekoisgood/Perky)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pekoisgood&repo=Perky&bg_color=fafae8)](https://github.com/pekoisgood/Perky)
 
 
 
